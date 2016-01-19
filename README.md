@@ -1,4 +1,4 @@
-# Awesome Scripts
+# Awesome Tools
 > A curated list of awesome tools to make your life happier.
 
 - [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - 查看被删的微信好友
